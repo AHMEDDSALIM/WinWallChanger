@@ -24,7 +24,7 @@ WinWallChanger is a lightweight application for Windows that allows users to qui
 
 ### **2. Using the Application**
 - Open the application.
-- Click the "Set Wallpaper" button to choose an image.
+- Click the "Select Image" button to choose an image.
 - The selected image will be applied as both your desktop and lock screen wallpaper.
 
 ---
